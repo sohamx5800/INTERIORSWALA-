@@ -62,7 +62,7 @@ const AboutSection: React.FC = () => {
                     Crafting <span className="text-[#1FAE9B]">Exceptional Spaces</span> in the heart of Siliguri.
                   </h3>
                   <p className="text-white/60 text-base md:text-lg font-light leading-relaxed">
-                    <span className="text-white font-semibold">InteriorsWala</span> is a Siliguri-based interior design studio creating refined, functional living spaces. We specialize in premium interiors that balance aesthetics, comfort, and long-term value—executed with precision and transparency.
+                    <span className="text-white font-semibold">InteriorsWala</span> is a Siliguri-based interior design studio creating refined, functional living spaces. We specialize in premium interiors that balance aesthetics, comfort, and long-term value, executed with precision and transparency.
                   </p>
                 </div>
               </motion.div>
@@ -77,7 +77,7 @@ const AboutSection: React.FC = () => {
                   <Quote className="absolute -top-4 -right-4 text-[#1FAE9B]/10 w-24 h-24 md:w-32 md:h-32 rotate-12" />
                   <h4 className="text-[10px] uppercase tracking-[0.6em] text-[#1FAE9B] font-black mb-8 border-b border-[#1FAE9B]/20 pb-4 inline-block">Design Philosophy</h4>
                   <p className="text-white/50 text-sm md:text-base leading-relaxed font-light italic relative z-10">
-                    "Every home begins with a conversation—not a catalog. We explore your taste and lifestyle so every design decision is intentional and future-ready. Luxury is about spaces that feel personal."
+                    "Every home begins with a conversation, not a catalog. We explore your taste and lifestyle so every design decision is intentional and future-ready. Luxury is about spaces that feel personal."
                   </p>
                 </div>
               </motion.div>
