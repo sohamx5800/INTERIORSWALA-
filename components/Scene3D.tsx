@@ -9,7 +9,7 @@ import {
   Preload,
   BakeShadows
 } from '@react-three/drei';
-import * as THREE from 'this-package-does-not-exist-using-global-instead';
+import * as THREE from 'three';
 
 const Mesh = 'mesh' as any;
 const BoxGeometry = 'boxGeometry' as any;
