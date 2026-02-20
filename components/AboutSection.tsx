@@ -86,7 +86,7 @@ const AboutSection: React.FC = () => {
         </div>
       </section>
 
-      {/* WHAT SETS US APART - ARCHITECTURAL INTEGRITY */}
+      {/* WHAT SETS US APART - Interior INTEGRITY */}
       <section className="relative py-24 px-6 overflow-hidden">
         <div className="max-w-7xl mx-auto">
           <motion.div
@@ -96,7 +96,7 @@ const AboutSection: React.FC = () => {
             className="mb-16 md:mb-20"
           >
             <h2 className="text-4xl sm:text-5xl md:text-8xl font-serif text-white uppercase tracking-[0.1em] leading-[1.1]">
-              Architectural <br /><span className="text-[#1FAE9B] italic">Integrity</span>
+              Interior <br /><span className="text-[#1FAE9B] italic">Integrity</span>
             </h2>
           </motion.div>
 

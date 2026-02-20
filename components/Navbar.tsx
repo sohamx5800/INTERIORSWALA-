@@ -62,7 +62,7 @@ const Navbar: React.FC = () => {
             rel="noopener noreferrer"
             className="hidden md:block px-8 py-3 bg-[#1FAE9B] text-white text-[9px] uppercase tracking-[0.3em] font-black hover:bg-white hover:text-[#1FAE9B] transition-all duration-500 shadow-lg shadow-[#1FAE9B]/10"
           >
-            Free Consultation
+           BOOK CONSULTATION
           </a>
           
           {/* Mobile Toggle */}
@@ -109,7 +109,7 @@ const Navbar: React.FC = () => {
               onClick={() => setIsMobileMenuOpen(false)}
               className="mt-6 px-10 py-4 bg-[#1FAE9B] text-white text-[10px] uppercase tracking-[0.4em] font-bold text-center w-full"
             >
-              Free Consultation
+             BOOK CONSULTATION
             </motion.a>
           </motion.div>
         )}

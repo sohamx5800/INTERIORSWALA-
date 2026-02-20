@@ -34,7 +34,7 @@ const Hero: React.FC = () => {
         >
           <div className="flex flex-col items-center">
             <span className="text-[#1FAE9B] font-bold tracking-[1.2em] uppercase text-[9px] mb-8 opacity-80">
-              Est. 2025 • High-End Studio
+            Design Excellence • Technical Precision • Complete Project Delivery
             </span>
             
             <h1 className="text-5xl sm:text-7xl md:text-8xl font-serif font-bold leading-none mb-8 tracking-tight text-white drop-shadow-2xl">
@@ -45,7 +45,7 @@ const Hero: React.FC = () => {
             <div className="w-16 h-[1px] bg-white/20 mb-8" />
 
             <p className="max-w-2xl mx-auto text-sm md:text-base text-white/70 mb-12 font-light leading-relaxed tracking-wide px-4">
-              Crafting atmospheres of profound distinction. Our studio merges architectural rigor with a curated aesthetic of modern luxury.
+              Crafting atmospheres of profound distinction. Our studio merges Interior rigor with a curated aesthetic of modern luxury.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">

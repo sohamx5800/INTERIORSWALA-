@@ -65,7 +65,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ initialDesign, onSendMessage,
                 <span className="text-[#1FAE9B] italic">Curation</span>
               </h2>
               <p className="text-white/40 mb-16 md:mb-24 text-lg md:text-xl font-light leading-relaxed max-w-lg italic border-l-2 border-[#1FAE9B]/20 pl-8">
-                Connect with our senior architectural team. We specialize in transforming abstract visions into profound structural realities.
+                Connect with our senior Interior team. We specialize in transforming abstract visions into profound structural realities.
               </p>
             </motion.div>
 
@@ -127,7 +127,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ initialDesign, onSendMessage,
                 >
                   <CheckCircle className="text-[#1FAE9B] w-20 h-20 md:w-24 md:h-24 mx-auto mb-10" />
                   <h3 className="text-4xl md:text-5xl font-serif font-bold mb-6 italic text-white drop-shadow-lg tracking-tight">Vison Captured</h3>
-                  <p className="text-white/40 mb-12 font-light text-base md:text-lg max-w-sm mx-auto leading-relaxed italic">Our studio vault has documented your requirements. An architectural consultant will contact you shortly.</p>
+                  <p className="text-white/40 mb-12 font-light text-base md:text-lg max-w-sm mx-auto leading-relaxed italic">Our studio vault has documented your requirements. An Interior consultant will contact you shortly.</p>
                   <button 
                     onClick={() => setSubmitted(false)}
                     className="text-[#1FAE9B] font-black uppercase tracking-[0.5em] text-[11px] border-b-2 border-[#1FAE9B] pb-2 hover:text-white hover:border-white transition-all"

@@ -53,7 +53,7 @@ const AIDesignAssistant: React.FC<AIDesignAssistantProps> = ({ onQuoteRequest })
             transition={{ duration: 1.2, delay: 0.2 }}
             className="text-4xl md:text-7xl font-serif font-bold mb-6 tracking-tight text-white drop-shadow-2xl"
           >
-            Digital <span className="text-[#1FAE9B] italic">Architect</span>
+            Digital <span className="text-[#1FAE9B] italic">Studio</span>
           </motion.h2>
           
           <motion.p 
@@ -62,7 +62,7 @@ const AIDesignAssistant: React.FC<AIDesignAssistantProps> = ({ onQuoteRequest })
             transition={{ duration: 1.5, delay: 0.4 }}
             className="text-white/40 max-w-2xl mx-auto font-light leading-relaxed text-sm md:text-base backdrop-blur-[1px]"
           >
-            Merge computational precision with architectural vision. Describe your dream atmosphere and witness our intelligence layer generate bespoke structural DNA.
+            Merge computational precision with Interior vision. Describe your dream atmosphere and witness our intelligence layer generate bespoke structural DNA.
           </motion.p>
         </div>
 

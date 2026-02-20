@@ -247,7 +247,7 @@ const App: React.FC = () => {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 md:gap-40 items-center">
               <div>
                 <span className="text-[10px] md:text-[12px] text-[#1FAE9B] font-black uppercase tracking-[0.5em] md:tracking-[0.7em] mb-6 md:mb-8 block drop-shadow-lg text-glow">Capabilities</span>
-                <h2 className="text-4xl sm:text-6xl md:text-8xl font-serif font-bold italic mb-8 md:mb-12 text-white leading-[1.1] tracking-tight drop-shadow-2xl">Architectural <br /><span className="text-white/10">Alchemy</span></h2>
+                <h2 className="text-4xl sm:text-6xl md:text-8xl font-serif font-bold italic mb-8 md:mb-12 text-white leading-[1.1] tracking-tight drop-shadow-2xl">Interior <br /><span className="text-white/10">Alchemy</span></h2>
                 <p className="text-white/50 text-base md:text-xl font-light leading-relaxed max-w-xl italic border-l-2 border-[#1FAE9B]/20 pl-8 md:pl-10 mb-10 backdrop-blur-[2px]">
                   "We don't just design rooms; we engineer emotional resonance. Our process is a dialogue between material honesty and visionary form."
                 </p>
@@ -299,7 +299,7 @@ const App: React.FC = () => {
                 className="h-10 md:h-12 mb-8 transition-all brightness-110 drop-shadow-md" 
               />
               <p className="max-w-md text-white/40 text-[12px] md:text-sm font-medium leading-relaxed italic border-l border-white/5 pl-6 md:pl-8">
-                Excellence in architectural curation and modern spatial luxury since 2025.
+                Elevating Spaces Through Thoughtful Interior Design 
               </p>
             </div>
             
